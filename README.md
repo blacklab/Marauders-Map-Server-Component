@@ -1,9 +1,11 @@
 Marauders-Map-Server-Component
 ==============================
 
-Some XEPs to create a very basic location based social network.
+Some XEPs to create a very basic location based social network for a proof of concept.
 
 This is the source of a college project from 2010. It is the basic server component to create a location based social network on top of XMPP.
+
+You can more details [here](http://www.blackmagiclabs.com/portfolio/work/marauders-map.html).
 
 Requirements
 ------------

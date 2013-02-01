@@ -5,12 +5,12 @@ Some XEPs to create a very basic location based social network for a proof of co
 
 This is the source of a college project from 2010. It is the basic server component to create a location based social network on top of XMPP.
 
-You can more details [here](http://www.blackmagiclabs.com/portfolio/work/marauders-map.html).
+You can find more details [here](http://www.blackmagiclabs.com/portfolio/work/marauders-map.html).
 
 Requirements
 ------------
 
-The XMPP component was run with OpenFire and Wokkel which is based on Twisted.
+The XMPP component was run with OpenFire and [Wokkel](http://wokkel.ik.nu/) which is uses Twisted.
 
 The MIT License (MIT)
 ---------------------
